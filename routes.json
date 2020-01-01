@@ -1,0 +1,17 @@
+[
+    {
+        "name": "/",
+        "controller": "controllers/FrontendController",
+        "method": "index"
+    },
+    {
+        "name": "/test",
+        "controller": "controllers/FrontendController",
+        "method": "test"
+    },
+    {
+        "name": "/services",
+        "controller": "controllers/FrontendController",
+        "method": "services"
+    }
+]
