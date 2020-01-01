@@ -1,3 +1,3 @@
 # Very Simple Http Server
 
-A very simple router built with node.js with views and controllers
+A very simple http server built with node.js read routes form json file, with views and controllers
